@@ -15,7 +15,7 @@ class pattern2
                 else
                     System.out.print(" ");
                 }
-          System.out.print("\n"); 
+          System.out.println(); 
         }
    }
 }
